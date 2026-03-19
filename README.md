@@ -45,13 +45,14 @@ Desenvolvedor Full Stack com foco em arquitetura de sistemas e entrega de aplica
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AugustoFrank&show_icons=true&theme=radical&hide_border=true&locale=pt-br" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoFrank&layout=compact&theme=radical&hide_border=true&locale=pt-br" />
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AugustoFrank&theme=radical&hide_border=true&locale=pt-br" />
-</div>>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
