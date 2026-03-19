@@ -12,10 +12,10 @@ Sou um desenvolvedor apaixonado por criar sistemas robustos e eficientes, com um
 
 ## 🛠️ Pilha de Tecnologias (Stack)
 
-* **Backend:** `Python` `Django` `Node.js` `Flask`
+* **Backend:** `Python` `Django` `Node.js`
 * **Frontend:** `React` `JavaScript` `HTML5` `CSS3`
-* **Banco de Dados:** `PostgreSQL` `SQLite` `MongoDB`
-* **Ferramentas:** `Git` `GitHub` `Docker` `VS Code` `Linux`
+* **Banco de Dados:** `PostgreSQL` `SQLite`
+* **Ferramentas:** `Git` `GitHub` `Docker` `VS Code`
 
 ---
 
@@ -43,31 +43,6 @@ Sou um desenvolvedor apaixonado por criar sistemas robustos e eficientes, com um
 
 ---
 
-## 📚 Atualmente aprimorando
-
-* **Arquitetura:** Microservices e escalabilidade de sistemas.
-* **Segurança:** Boas práticas em APIs RESTFUL e controle de acesso.
-* **Novas Fronteiras:** Integração de IA em fluxos de desenvolvimento.
-
----
-
-## 📈 Minhas Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dark" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ## 📫 Vamos nos conectar?
 
-* 🔗 **LinkedIn:** [https://www.linkedin.com/in/seu-perfil-aqui/](https://www.linkedin.com/in/seu-perfil-aqui/)
-* 📧 **E-mail:** augustofrank4@gmail.com
-* 📍 **Localização:** São Luís, MA
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AugustoFrank&repo=JC-Bebidas&theme=dark" alt="JC Bebidas Destaque" />
-</p>
+* 🔗 **LinkedIn:**
