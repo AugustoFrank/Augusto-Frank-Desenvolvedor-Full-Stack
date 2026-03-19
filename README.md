@@ -35,8 +35,10 @@ Desenvolvedor Full Stack com foco em arquitetura de sistemas e entrega de aplica
 
 ## 📫 Vamos nos conectar?
 
-* 🔗 **LinkedIn:**
-https://www.linkedin.com/in/augusto-frank-5606053b8/
+📫 Contato
+LinkedIn: https://www.linkedin.com/in/augusto-frank-5606053b8/
+E-mail: augustofrank4@gmail.com
+WhatsApp: 98981535586
 
 ## 📊 Atividade & Performance
 
