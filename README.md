@@ -1,25 +1,25 @@
 # Olá, eu sou o Augusto Frank 👋
 
-### Desenvolvedor Full Stack | Foco em Backend, Sistemas de Gestão e Soluções Eficientes
+### Desenvolvedor Full Stack | Web e Automações
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou um desenvolvedor apaixonado por criar sistemas robustos e eficientes, com um forte foco no desenvolvimento backend. Atualmente, aprimoro minhas habilidades cursando Full Stack no SENAI. Minha missão é traduzir desafios complexos em código limpo, funcional e escalável, utilizando as melhores práticas do mercado.
+Desenvolvedor Full Stack com foco em arquitetura de sistemas e entrega de aplicações de alto desempenho. Especialista na construção de **APIs RESTful** e sistemas de gestão ponta a ponta, unindo interfaces intuitivas a backends robustos.
 
 ---
 
 ## 🛠️ Pilha de Tecnologias (Stack)
 
 * **Backend:** `Python` `Django` `Node.js`
-* **Frontend:** `React` `JavaScript` `HTML5` `CSS3`
+* **Frontend:** `JavaScript` `Html` `Css`
 * **Banco de Dados:** `PostgreSQL` `SQLite`
-* **Ferramentas:** `Git` `GitHub` `Docker` `VS Code`
+* **Ferramentas:** `Git` `GitHub` `VsCode`
 
 ---
 
-## 🚧 Projetos em Destaque
+## 🚧 Projetos em Andamento
 
 <details open>
   <summary>💻 JC Bebidas (Full Stack)</summary>
@@ -27,18 +27,8 @@ Sou um desenvolvedor apaixonado por criar sistemas robustos e eficientes, com um
 </details>
 
 <details open>
-  <summary>🌐 Logiscore-sistem (Backend)</summary>
+  <summary>🌐 Projeto Paulo Vi (Backend)</summary>
   <p>Sistema logístico especializado na organização e rastreamento de produtos eletrônicos. Focado na otimização de fluxos de entrada e saída de mercadorias.</p>
-</details>
-
-<details open>
-  <summary>📝 Lista de Tarefas (CRUD & Auth)</summary>
-  <p>Aplicação completa de gerenciamento de tarefas com sistema de autenticação de usuários, construída para praticar boas práticas de backend com Django.</p>
-</details>
-
-<details open>
-  <summary>🔐 Sistema de Autenticação (Backend Demo)</summary>
-  <p>Implementação de login, registro de usuários, controle de sessões e segurança de dados como um projeto isolado para reuso e aprendizado.</p>
 </details>
 
 ---
@@ -46,3 +36,17 @@ Sou um desenvolvedor apaixonado por criar sistemas robustos e eficientes, com um
 ## 📫 Vamos nos conectar?
 
 * 🔗 **LinkedIn:**
+https://www.linkedin.com/in/augusto-frank-5606053b8/
+
+## 📊 Atividade & Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=radical&hide_border=true" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
