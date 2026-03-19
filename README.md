@@ -35,20 +35,21 @@ Desenvolvedor Full Stack com foco em arquitetura de sistemas e entrega de aplica
 
 ## 📫 Vamos nos conectar?
 
-📫 Contato
-LinkedIn: https://www.linkedin.com/in/augusto-frank-5606053b8/
-E-mail: augustofrank4@gmail.com
-WhatsApp: 98981535586
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/augusto-frank-5606053b8/](https://www.linkedin.com/in/augusto-frank-5606053b8/)
+* 📧 **E-mail:** augustofrank4@gmail.com
+* 📍 **Localização:** São Luís, MA
 
-## 📊 Atividade & Performance
+---
+
+## 📊 Atividade e Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=agst552&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agst552&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agst552&theme=radical&hide_border=true" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
