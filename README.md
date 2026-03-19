@@ -44,7 +44,7 @@ Desenvolvedor Full Stack com foco em arquitetura de sistemas e entrega de aplica
 ## 📊 Atividade e Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agst552&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AugustoFrank&show_icons=true&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agst552&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 
